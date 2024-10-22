@@ -1,0 +1,19 @@
+# Compiled binaries
+*.o
+*.a
+*.so
+
+# Test binaries
+*.test
+
+# Package archives
+*.tar.gz
+*.zip
+
+# Build directory
+/bin
+
+# Vendor directory
+/vendor
+
+.idea
